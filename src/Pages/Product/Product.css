@@ -1,0 +1,45 @@
+
+.detail_product{
+    position:absolute;
+    padding: 10px 50px 50px 50px;
+    margin: auto;
+    border: 1vh;
+    border-style:solid;
+    font-family:  Arial;
+    font-weight: 600;
+    border-radius: 30px;
+    text-align:center;
+    background-color: aqua;
+      
+}
+
+input{
+
+    margin:2px ;
+    padding: 5px;
+    border-radius: 30px;
+    width:400px;
+}
+
+.Button{
+
+    position: relative;
+    margin-top: 25px;
+    margin-right: 10px;
+     background-color: rgb(218, 100, 22);
+     border-radius: 50px;
+     
+ 
+
+}
+.header{
+
+    font-size:large;
+    font-weight: 800;
+}
+.centered-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }

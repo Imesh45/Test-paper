@@ -1,0 +1,78 @@
+.I_input{
+
+    width: 140px;
+    text-align: center;
+    color: rgb(5, 5, 18);
+    margin-top: 30px;
+    margin-left: 10px;
+    border-style: solid;
+
+}
+.formdetail{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+
+}
+.form-input{
+    margin: auto;
+  width: 100%;
+  border: 3px solid green;
+  padding: 10px;
+  
+
+
+}
+.centered-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.table_detail{
+
+      display: flex;
+      position: relative;
+      justify-content: center;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      font-size: larger;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: small;
+}
+.invoice_{
+
+    border-style: double;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 100px;
+    background-color: aqua;
+    border-radius: 30px;
+}
+
+table,td,th,tr{
+   padding: 20px; 
+   border-style: solid;
+   text-align: center;
+   
+}
+.submitbutton{
+  border-radius: 50px;
+  background-color: rgb(220, 73, 20);
+
+ 
+}
+.date{
+    width:100px;
+   margin-top: 6px;
+   margin-left: 100px;
+  
+}
+p{
+
+  position: absolute;
+  margin-left: 40px;
+  
+
+}
